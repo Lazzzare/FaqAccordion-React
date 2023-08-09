@@ -7,7 +7,7 @@
 1. First of all you need to clone app repository from github:
 
 ```
-my github repositori
+https://github.com/Lazzzare/FaqAccordion-React
 ```
 
 2. Next step requires install all the dependencies.
