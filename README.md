@@ -1,4 +1,4 @@
-# Screenshots
+# FaqAccordion
 
   <img src="./src/assets/Readme-image.PNG" alt="First Image">
 
