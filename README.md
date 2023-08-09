@@ -24,7 +24,7 @@ npm run dev
 
 # Links
 
-- Solution URL: [GitHub Code]()
+- Solution URL: [GitHub Code](https://github.com/Lazzzare/FaqAccordion-React)
 - Live Site URL: [Live Site](https://faq-accordion-reacttsx.netlify.app/)
 
 # Built With
