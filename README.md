@@ -16,6 +16,8 @@ https://github.com/Lazzzare/FaqAccordion-React
 npm install
 ```
 
+![gif](/src/assets/Gif.webp)
+
 3. Running the Project
 
 ```
