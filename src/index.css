@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(180deg, #b068e9 0%, #6463e7 100%);
+  font-family: "Kumbh Sans", sans-serif;
+}
