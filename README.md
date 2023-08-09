@@ -2,9 +2,29 @@
 
   <img src="./src/assets/Readme-image.PNG" alt="First Image">
 
+### Getting Started
+
+1. First of all you need to clone app repository from github:
+
+```
+my github repositori
+```
+
+2. Next step requires install all the dependencies.
+
+```
+npm install
+```
+
+3. Running the Project
+
+```
+npm run dev
+```
+
 # Links
 
-- Solution URL: [GitHub Code](https://github.com/Lazzzare/AdviceGenerator-React)
+- Solution URL: [GitHub Code]()
 - Live Site URL: [Live Site](https://faq-accordion-reacttsx.netlify.app/)
 
 # Built With
