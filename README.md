@@ -2,7 +2,7 @@
 
   <img src="./src/assets/Readme-image.PNG" alt="First Image">
 
-### Getting Started
+# Getting Started
 
 1. First of all you need to clone app repository from github:
 
